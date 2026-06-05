@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon128.png" width="80" alt="Moodboard icon" />
+  <img src="icons/icon128.png" width="80" alt="Moodboard icon" />
 </p>
 
 <h1 align="center">Palette - Mood Tracker</h1>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="screenshot1.png" width="340" alt="Moodboard screenshot" />
+  <img src="screenshots/screenshot1.png" width="340" alt="Moodboard screenshot" />
   &nbsp;&nbsp;
-  <img src="screenshot2.png" width="340" alt="Moodboard screenshot" />
+  <img src="screenshots/screenshot2.png" width="340" alt="Moodboard screenshot" />
 </p>
 
 ---
