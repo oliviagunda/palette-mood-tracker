@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/adv.png" width="340" alt="Moodboard screenshot" />
+  <img src="screenshots/adv.png" width="520" alt="Moodboard screenshot" />
 </p>
 
 ---
