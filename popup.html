@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Moodboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <button class="nav-btn" id="prevMonth">&#8592;</button>
+      <div class="header-title">
+        <h1 class="month-name" id="monthName"></h1>
+        <span class="year-label" id="yearLabel"></span>
+      </div>
+      <button class="nav-btn" id="nextMonth">&#8594;</button>
+    </header>
+
+    <div class="palette-bar">
+      <span class="palette-label">mood</span>
+      <div class="swatches" id="swatches"></div>
+      <button class="clear-btn" id="clearColor" title="Erase mood"></button>
+    </div>
+
+    <div class="calendar-grid">
+      <div class="day-headers">
+        <span>Su</span><span>Mo</span><span>Tu</span><span>We</span>
+        <span>Th</span><span>Fr</span><span>Sa</span>
+      </div>
+      <div class="days" id="daysGrid"></div>
+    </div>
+
+    <div class="note-panel" id="notePanel">
+      <div class="note-inner">
+        <div class="note-date" id="noteDate"></div>
+        <textarea class="note-input" id="noteInput" placeholder="what shaped today?"></textarea>
+        <div class="note-actions">
+          <button class="note-close" id="noteClose">done</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
