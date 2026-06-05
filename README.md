@@ -9,16 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="340" alt="Moodboard screenshot" />
-  &nbsp;&nbsp;
-  <img src="screenshots/screenshot2.png" width="340" alt="Moodboard screenshot" />
+  <img src="screenshots/adv.png" width="340" alt="Moodboard screenshot" />
 </p>
 
 ---
 
 ## What it does
 
-Moodboard gives you a color-coded calendar that lives in your browser toolbar. Pick a color that matches how you're feeling, click the day, and optionally write a short note. Over time your month fills up with a quiet visual record of how things have been.
+Palette - Mood Tracker gives you a color-coded calendar that lives in your browser toolbar. Pick a color that matches how you're feeling, click the day, and optionally write a short note. Over time your month fills up with a quiet visual record of how things have been.
 
 ## Features
 
